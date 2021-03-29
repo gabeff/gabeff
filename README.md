@@ -1,16 +1,14 @@
-### Hi there 👋
+#  Educação
+ - *Ensino Superior: Análise de Sistemas (2012/6) - *CESMAC
+-  *Idiomas: Português (_*Nativo_), Inglês (Avançado) 
 
-<!--
-**gabeff/gabeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Experiência
+-   *Cientista de Dados*  em  *Unimed Maceió*  ( Maio/2019 - Atualmente )
+    -   *Tecnologia Primária*: Qlikview, PL/SQL
+    -   Tecnologias Secundárias: Pentaho, Qliksense
+-   *Analista de Sistemas*  em  *Unimed Maceió*  ( Novembro/2013 - Maio/2019)
+    -   *Tecnologia Primária*: Delphi, PL/SQL
+    -   Tecnologias Secundárias: Java
+-   *Desenvolvedor*  em  *UNIMED Maceió*  (Outubro/2012 - Novembro/2013)
+    -   *Tecnologia Primária*:  Delphi, PL/SQL
+    -   Tecnologias Secundárias: Java
