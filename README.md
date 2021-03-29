@@ -2,7 +2,7 @@
  - *Ensino Superior*: Análise de Sistemas (2012/6) - *CESMAC*
 -  *Idiomas*: Português (_*Nativo*_), Inglês (Avançado) 
 
-# Experiência
+# Experiência Profissional
 -   *Empresário* em *Oxedev* (Setembro/2019 - Atualmente)
     -   *Tecnologia Primária*: React, Node, Mongo
     -   Tecnologias Secundárias: Delphi, PostgreSQL
@@ -16,7 +16,7 @@
     -   *Tecnologia Primária*:  Delphi, PL/SQL
     -   Tecnologias Secundárias: Java
 
-# Projetos
+# Projetos como freelancer
 - https://escambo.app/site/
 - https://dental-diet.web.app/
 - https://fisiolares.com/
