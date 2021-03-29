@@ -3,6 +3,9 @@
 -  *Idiomas: Português (_*Nativo_), Inglês (Avançado) 
 
 # Experiência
+-   *Empresário* em *Oxedev* (Setembro/2019 - Atualmente)
+    -   *Tecnologia Primária*: React, Node, Mongo
+    -   Tecnologias Secundárias: Delphi, PostgreSQL
 -   *Cientista de Dados*  em  *Unimed Maceió*  ( Maio/2019 - Atualmente )
     -   *Tecnologia Primária*: Qlikview, PL/SQL
     -   Tecnologias Secundárias: Pentaho, Qliksense
@@ -12,3 +15,10 @@
 -   *Desenvolvedor*  em  *UNIMED Maceió*  (Outubro/2012 - Novembro/2013)
     -   *Tecnologia Primária*:  Delphi, PL/SQL
     -   Tecnologias Secundárias: Java
+
+# Projetos
+- https://escambo.app/site/
+- https://dental-diet.web.app/
+- https://fisiolares.com/
+- https://ihelpp.web.app/
+- https://calculacake.com.br/
