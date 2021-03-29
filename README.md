@@ -1,6 +1,6 @@
 #  Educação
- - *Ensino Superior: Análise de Sistemas (2012/6) - *CESMAC
--  *Idiomas: Português (_*Nativo_), Inglês (Avançado) 
+ - *Ensino Superior*: Análise de Sistemas (2012/6) - *CESMAC*
+-  *Idiomas*: Português (_*Nativo*_), Inglês (Avançado) 
 
 # Experiência
 -   *Empresário* em *Oxedev* (Setembro/2019 - Atualmente)
