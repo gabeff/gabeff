@@ -3,7 +3,7 @@
 -  *Idiomas*: Português (_*Nativo*_), Inglês (Avançado) 
 
 # Experiência Profissional
--   *Empresário* em *Oxedev* (Setembro/2019 - Atualmente)
+-   *Engenheiro de Software* em *Oxedev* (Setembro/2019 - Atualmente)
     -   *Tecnologia Primária*: React, Node, Mongo
     -   Tecnologias Secundárias: Delphi, PostgreSQL
 -   *Cientista de Dados*  em  *Unimed Maceió*  ( Maio/2019 - Atualmente )
